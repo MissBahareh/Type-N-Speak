@@ -1,6 +1,6 @@
-# Timer with React
+# Type-N-Speak
 
-A simple project to build a timer in React that, in addition to having a built-in timer, also has the ability to display the system clock, send feedback, and a box containing a string.
+This mini-application converts typed data into voice that can be examined with different dialects and pronunciations. - No framework is used in this project and it is vanilla JS. - Bootstrap is used for styling and all styles are inline.
 
 ![Alt text](https://i.imgur.com/w3o3sSO.png)
 [Watch the video](https://i.imgur.com/ki4RoTo.mp4) <br/>
